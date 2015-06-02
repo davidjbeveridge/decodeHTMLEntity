@@ -1,0 +1,14 @@
+{
+  "name": "decodeHTMLEntities",
+  "version": "0.0.1",
+  "description": "decodeHTMLEntities without the DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "davidjbeveridge@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
+
