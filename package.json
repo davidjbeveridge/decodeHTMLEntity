@@ -1,7 +1,7 @@
 {
-  "name": "decodeHTMLEntities",
+  "name": "htmlEntities",
   "version": "0.0.1",
-  "description": "decodeHTMLEntities without the DOM",
+  "description": "htmlEntities without the DOM",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
